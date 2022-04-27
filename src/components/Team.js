@@ -23,7 +23,7 @@ function Team () {
                   className="rounded-circle mb-3 fit-cover"
                   width="130"
                   height="130"
-                  src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png"
+                  src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt="placeholder"
                 />
                 <h5 className="fw-bold text-warning card-title mb-0">
                   <strong>John Smith</strong>
@@ -91,7 +91,7 @@ function Team () {
                   className="rounded-circle mb-3 fit-cover"
                   width="130"
                   height="130"
-                  src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png"
+                  src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt="placeholder"
                 />
                 <h5 className="fw-bold text-warning card-title mb-0">
                   <strong>John Smith</strong>
@@ -159,7 +159,7 @@ function Team () {
                   className="rounded-circle mb-3 fit-cover"
                   width="130"
                   height="130"
-                  src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png"
+                  src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt="placeholder"
                 />
                 <h5 className="fw-bold text-warning card-title mb-0">
                   <strong>John Smith</strong>
@@ -227,8 +227,8 @@ function Team () {
                   className="rounded-circle mb-3 fit-cover"
                   width="130"
                   height="130"
-                  src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png"
-                />
+                  src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt="placeholder"
+                /> 
                 <h5 className="fw-bold text-warning card-title mb-0">
                   <strong>John Smith</strong>
                 </h5>

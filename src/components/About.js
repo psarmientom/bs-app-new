@@ -19,7 +19,7 @@ function About () {
               <img
                 className="card-img-top w-100 d-block fit-cover"
                 style={{height: "200px"}}
-                src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png"
+                src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt="placeholder"
               />
               <div className="card-body p-4">
                 <p className="text-warning card-text mb-0">Article</p>
@@ -34,7 +34,7 @@ function About () {
                     className="rounded-circle flex-shrink-0 me-3 fit-cover"
                     width="50"
                     height="50"
-                    src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png"
+                    src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt="placeholder"
                   />
                   <div>
                     <p className="fw-bold mb-0">John Smith</p>
@@ -49,7 +49,7 @@ function About () {
               <img
                 className="card-img-top w-100 d-block fit-cover"
                 style={{height: '200px'}}
-                src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png"
+                src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt="placeholder"
               />
               <div className="card-body p-4">
                 <p className="text-warning card-text mb-0">Article</p>
@@ -64,7 +64,7 @@ function About () {
                     className="rounded-circle flex-shrink-0 me-3 fit-cover"
                     width="50"
                     height="50"
-                    src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png"
+                    src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt="placeholder"
                   />
                   <div>
                     <p className="fw-bold mb-0">John Smith</p>
@@ -79,7 +79,7 @@ function About () {
               <img
                 className="card-img-top w-100 d-block fit-cover"
                 style={{height: 200}}
-                src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png"
+                src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt="placeholder"
               />
               <div className="card-body p-4">
                 <p className="text-warning card-text mb-0">Article</p>
@@ -94,7 +94,7 @@ function About () {
                     className="rounded-circle flex-shrink-0 me-3 fit-cover"
                     width="50"
                     height="50"
-                    src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png"
+                    src="https://cdn.bootstrapstudio.io/placeholders/1400x800.png" alt="placeholder"
                   />
                   <div>
                     <p className="fw-bold mb-0">John Smith</p>
