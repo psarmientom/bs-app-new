@@ -36,7 +36,7 @@ function Nav () {
         <div className="collapse navbar-collapse" id="navcol-2">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <Link className="nav-link" to="/">HomePage</Link>
+              <Link className="nav-link" to="/">Home</Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link" to="/team">Our Team</Link>
