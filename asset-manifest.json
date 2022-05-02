@@ -1,7 +1,7 @@
 {
   "main.css": "/bs-app-new/static/css/main.1c462646.chunk.css",
-  "main.js": "/bs-app-new/static/js/main.ed128de2.chunk.js",
-  "main.js.map": "/bs-app-new/static/js/main.ed128de2.chunk.js.map",
+  "main.js": "/bs-app-new/static/js/main.cb858bb8.chunk.js",
+  "main.js.map": "/bs-app-new/static/js/main.cb858bb8.chunk.js.map",
   "static/js/1.206e060b.chunk.js": "/bs-app-new/static/js/1.206e060b.chunk.js",
   "static/js/1.206e060b.chunk.js.map": "/bs-app-new/static/js/1.206e060b.chunk.js.map",
   "static/js/2.c09d97cd.chunk.js": "/bs-app-new/static/js/2.c09d97cd.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/bs-app-new/static/js/runtime~main.c127db33.js.map",
   "static/css/main.1c462646.chunk.css.map": "/bs-app-new/static/css/main.1c462646.chunk.css.map",
   "index.html": "/bs-app-new/index.html",
-  "precache-manifest.878638cb6bdb38a09ba1b256904aea1a.js": "/bs-app-new/precache-manifest.878638cb6bdb38a09ba1b256904aea1a.js",
+  "precache-manifest.d89227bd9759d520d1f36ac118dc74d8.js": "/bs-app-new/precache-manifest.d89227bd9759d520d1f36ac118dc74d8.js",
   "service-worker.js": "/bs-app-new/service-worker.js"
 }
